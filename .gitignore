@@ -1,0 +1,5 @@
+target/
+.idea/
+src/main/java/resources
+src/main/java/org.example
+
